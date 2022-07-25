@@ -1,0 +1,30 @@
+.Carousel-container{
+    @apply
+    flex
+    p-4
+    max-w-2xl
+    m-auto
+    gap-2
+}
+
+.wrapper{
+    @apply
+    overflow-x-auto
+}
+
+ul {
+    @apply
+    flex
+    flex-nowrap
+    gap-2
+}
+
+.items{
+    @apply
+    opacity-75
+}
+
+.current-item {
+    @apply
+    opacity-100
+}
