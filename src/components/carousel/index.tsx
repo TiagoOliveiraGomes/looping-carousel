@@ -49,7 +49,7 @@ function clickArrowRight() {
       <button onClick={clickArrowLeft} className='control arrow-left'>{'<'}</button>
         <div className='wrapper'>
             <ul>
-                <img className='items current-item' src='https://picsum.photos/seed/1/200' />
+                <img className='items current-item' src='https://picsum.photos/seed/1/400/200' />
                 <img className='items' src='https://picsum.photos/seed/2/400/200' />
                 <img className='items' src='https://picsum.photos/seed/3/400/200' />
                 <img className='items' src='https://picsum.photos/seed/4/400/200' />
